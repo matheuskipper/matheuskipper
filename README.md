@@ -4,8 +4,8 @@
 - 📚 Estudando para ser Full-stack!
 <br>
 <div style="display: inline-block">
-<img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=matheuskipper&show_icons=true&theme=dark"/>
-<img height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskipper&layout=compact&theme=dark"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuskipper&show_icons=true&count_private=true&theme=dark" alt="Matheus Kipper github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskipper&layout=compact&theme=dark" />
 </div>
 
 <br>
