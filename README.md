@@ -1,10 +1,9 @@
 ### Bem-vindo ao meu GitHub! 🤝
 
-- 💻 Atualmente trabalho com foco em Front-end
+- 💻 Profissional da área de T.I
 - 📚 Estudando para ser Full-stack!
 <br>
 <div style="display: inline-block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuskipper&show_icons=true&count_private=true&theme=dark" alt="Matheus Kipper github stats" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskipper&layout=compact&theme=dark" />
 </div>
 
