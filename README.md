@@ -23,7 +23,7 @@
 <h2>SKILLS</h2>
 <div style="display: inline_block">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,vue,html,css,tailwind,nodejs,git,vite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,nodejs,git,vite)](https://skillicons.dev)
 
 </div>
 
