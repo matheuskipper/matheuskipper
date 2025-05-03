@@ -1,9 +1,8 @@
 ### <h2 align="center"> Olá! Sou o Matheus, bem-vindo ao meu GitHub! 🤝 </h2>
 <br>
 
-- 💻 Profissional da área de T.I
 - 🧑🏼‍💻 Desenvolvedor Front-End
-- ❇️ Atualmente desenvolvo projetos com os frameworks Vue.js e Tailwind
+- ❇️ Atualmente desenvolvo projetos com os frameworks Vue.js e React, estilizando com Tailwind CSS
 
 
 
