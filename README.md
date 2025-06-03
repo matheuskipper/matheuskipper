@@ -2,7 +2,7 @@
 <br>
 
 - 🧑🏼‍💻 Desenvolvedor Front-End
-- ❇️ Atualmente desenvolvo projetos com os frameworks Vue.js e React, estilizando com Tailwind CSS
+- ❇️ Atualmente desenvolvo projetos com os frameworks Vue.js e React, estilizando com foco em Tailwind CSS
 
 
 
