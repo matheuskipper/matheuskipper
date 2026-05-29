@@ -12,10 +12,10 @@
   <img height="220em" src="https://streak-stats.demolab.com?user=matheuskipper&theme=tokyonight"/>
 </div>
 
-<div style="display: inline-block">
+<!-- <div style="display: inline-block">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuskipper&show_icons=true&theme=dark&hide=contribs" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskipper&layout=compact&theme=dark" />
-</div>
+</div> -->
 
 <br>
 <div style="display: inline-block">
