@@ -8,8 +8,8 @@
 
 <br>
 <div style="display: inline-block">
-  <img height="250em" src="https://ghstats.dev/api/card?username=matheuskipper&theme=tokyonight"/>
-  <img height="250em" src="https://streak-stats.demolab.com?user=matheuskipper&theme=tokyonight"/>
+  <img height="220em" src="https://ghstats.dev/api/card?username=matheuskipper&theme=tokyonight"/>
+  <img height="220em" src="https://streak-stats.demolab.com?user=matheuskipper&theme=tokyonight"/>
 </div>
 
 <div style="display: inline-block">
