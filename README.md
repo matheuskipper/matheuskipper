@@ -8,9 +8,15 @@
 
 <br>
 <div style="display: inline-block">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuskipper&show_icons=true&theme=dark&hide=contribs" />
+  <img height="250em" src="https://ghstats.dev/api/card?username=matheuskipper&theme=tokyonight"/>
+  <img height="250em" src="https://streak-stats.demolab.com?user=matheuskipper&theme=tokyonight"/>
+</div>
+
+<div style="display: inline-block">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuskipper&show_icons=true&theme=dark&hide=contribs" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskipper&layout=compact&theme=dark" />
 </div>
+
 <br>
 <div style="display: inline-block">
   
