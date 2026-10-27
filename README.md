@@ -3,6 +3,7 @@
 
 - 🧑🏼‍💻 Desenvolvedor Front-End
 - ❇️ Atualmente desenvolvo projetos com os frameworks Vue.js e React, estilizando com foco em Tailwind CSS
+- Meu portfólio: <a href='https://matheuskipper-psi.vercel.app/' target='_blank'>Clique aqui</a>
 
 
 
@@ -28,7 +29,7 @@
 <h2>SKILLS</h2>
 <div style="display: inline_block">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,nodejs,git,vite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwind,nodejs,git,npm,vite)](https://skillicons.dev)
 
 </div>
 
